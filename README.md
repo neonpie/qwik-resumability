@@ -1,3 +1,12 @@
+# Resumability vs Hydration
+Qwik Resumability
+![](https://github.com/neonpie/qwik-resumability/blob/main/qwik-resumability.gif)
+
+SvelteKit Hydration
+![](https://github.com/neonpie/qwik-resumability/blob/main/sveltekit-hydration.gif)
+
+---
+
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
